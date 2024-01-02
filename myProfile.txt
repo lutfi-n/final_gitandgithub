@@ -1,3 +1,4 @@
 nama
 umur
 lokasi
+pekerjaan
